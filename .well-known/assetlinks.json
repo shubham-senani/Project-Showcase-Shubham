@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.senanifinance.capita",
+            "sha256_cert_fingerprints": [
+                "8F:7A:E4:67:BC:6D:BE:F2:BE:62:2A:9B:1C:A8:1A:A5:AB:4C:22:D8:6B:5F:1A:A7:4D:F7:B9:66:C4:1E:F5:17"
+            ]
+        }
+    }
+]
